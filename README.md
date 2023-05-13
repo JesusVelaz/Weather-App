@@ -1,2 +1,2 @@
 # Weather-App
-Weather application using AirVisual API
+Weather application using streamlit and AirVisual API.
